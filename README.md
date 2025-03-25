@@ -1,4 +1,4 @@
-This is my implementation for the transformer model in Viswani 2017 paper [1]. 
+This is my Pytorch implementation for the transformer model in Viswani 2017 paper [1]. 
 
 
 
